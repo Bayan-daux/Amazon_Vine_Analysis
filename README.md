@@ -14,10 +14,6 @@ In this project, beauty products dataset was analyzed using:
 
 ## **Results**
 
-![](images/paid_reviews.PNG)
-
-![](images/unpaid_reviews.PNG)
-
 - **How many Vine reviews and non-Vine reviews were there?**
 
 At the time the analysis was performed, there was a total of **647** Vine reviews compared to **74113** Non-Vine Reviews. These votes were the ones that matches the following criteria:
@@ -34,6 +30,8 @@ These votes were the ones that matches the same criteria above.
 - **What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 
 The percentage of 5 star for Vine reviews was **34.6%** while it was **56.8%** for non-Vine reviews.
+
+![](images/paid_reviews.PNG)                 ![](images/unpaid_reviews.PNG)
 
 ## **Summary**
 
