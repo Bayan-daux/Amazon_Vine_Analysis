@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-**Overview**
+##**Overview**
 
 This project is a mock scenario where a data analyst, analyzes product reviews for a startup called _Big Market_. Big Market is a marketing company that helps business optimize their marketing efforts. One of their clients is _Sellby_, who are about to release a large catalog of products on a leading retail website. Sellby wants to know how the reviews of their products compared to similar products sold by their competitors. They also want to enroll in a program that gives free products to selected reviewers and they wants to know if it&#39;s worth the cost. So, the data analyst was tasked to analyze _Amazon_ reviews written by members of the paid _Amazon Vine program_. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
@@ -12,7 +12,11 @@ In this project, beauty products dataset was analyzed using:
 
 **Work Files:**  [challenge\_schema.sql](https://github.com/paulviet/Amazon_Vine_Analysis/blob/main/challenge_schema.sql), [Amazon\_Reviews\_ETL.ipynb](https://github.com/paulviet/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb), [Vine\_Review\_Analysis.ipynb](https://github.com/paulviet/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
-**Results**
+##**Results**
+
+![picture](images/paid_reviews.PNG.PNG)
+
+![picture](images/unpaid_reviews.PNG.PNG)
 
 - **How many Vine reviews and non-Vine reviews were there?**
 
@@ -31,7 +35,7 @@ These votes were the ones that matches the same criteria above.
 
 The percentage of 5 star for Vine reviews was **34.6%** while it was **56.8%** for non-Vine reviews.
 
-**Summary**
+##**Summary**
 
 When looking at the numbers of Vine reviews (647) compared to Non-Vine Reviews (74113). And the percentage of 5 star for Vine reviews (34.6%) and non-Vine reviews (56.8%). Its hard to say for certain whether the Vine program creates bias in reviews.
 
