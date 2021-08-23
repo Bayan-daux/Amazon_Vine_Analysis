@@ -31,7 +31,8 @@ These votes were the ones that matches the same criteria above.
 
 The percentage of 5 star for Vine reviews was **34.6%** while it was **56.8%** for non-Vine reviews.
 
-![](images/paid_reviews.PNG)                 ![](images/unpaid_reviews.PNG)
+![](images/paid_reviews.PNG)
+![](images/unpaid_reviews.PNG)
 
 ## **Summary**
 
